@@ -119,14 +119,3 @@ This project is open-source under the MIT License.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
-
-## 📬 Contact
-
-For any queries, contact the developer on [Telegram](https://t.me/your_username) or via [GitHub](https://github.com/yourusername).
-
-```
-
----
-
-Would you like me to generate the `requirements.txt` file for you as well based on your current code?
-```
