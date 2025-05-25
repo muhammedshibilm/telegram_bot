@@ -1,8 +1,4 @@
-Here's a professional and well-structured `README.md` file tailored to your current Telegram bot project:
 
----
-
-```markdown
 # 🛡️ Telegram Moderation Bot
 
 A simple Telegram bot built using Python and `python-telegram-bot` library to monitor group chats for inappropriate language and enforce moderation actions like warning, deleting messages, and banning users.
