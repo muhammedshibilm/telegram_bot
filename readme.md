@@ -97,21 +97,7 @@ Your bot will start polling and monitoring the group.
 
 ---
 
-## 🌐 Deploying to Render
 
-1. Push your code to GitHub.
-2. Create a new **Web Service** on [Render](https://render.com/).
-3. Connect your GitHub repo and set:
-
-   * **Start Command**: `python main.py`
-   * **Environment Variable**:
-
-     * `BOT_TOKEN`: your actual bot token
-4. Deploy!
-
-> ✅ No need for a webhook; polling is sufficient for this use case.
-
----
 
 ## 🔧 Future Improvements
 
